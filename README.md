@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey 👋 I'm Son</h1>
 
 ###
 
-<p align="left">My name is Son and I'm a Backend Developer, from Da Nang City, Viet Nam</p>
+<p align="left">I'm a Backend Developer</p>
 
 ###
 
@@ -10,13 +10,11 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/originals/84/4b/56/844b5617fdad9cd08382311ca10abfba.gif"  />
-</div>
+<img align="right" height="152" src="https://camo.githubusercontent.com/740253ff45f19eb5ab959e9698a2080286c1721c16fa8a66e3ac70792764c565/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4434453132415147575a414f6e4c44526151772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635363637393834343333383f653d3231343734383336343726763d6265746126743d4c58756943795a6768537068547652526d453756486b653874593964557a316f364e5445726c6262497451"  />
 
 ###
 
-<p align="left">👋 Hi, I'm Son Nguyen — a software developer who loves turning ideas into real products.<br><br>🛠 I work mainly with JavaScript & TypeScript, focusing on backend development using Node.js, NestJS, and SQL-based databases.<br><br>📚 I'm currently learning more about system design, clean architecture, and building scalable backend services.<br><br>🚀 My goal is to grow into a strong backend engineer and contribute to meaningful software projects.</p>
+<p align="left">🔭 Working on backend projects  <br>🌱 Learning system design & scalability  <br>💻 Node.js | NestJS | TypeScript | SQL  <br>💬 Ask me about backend development  <br>📫 Contact: nguyensonn2805@gmail.com</p>
 
 ###
 
@@ -88,13 +86,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenthanhsonn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenthanhsonn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenthanhsonn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
 
 ###
